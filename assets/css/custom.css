@@ -4,5 +4,7 @@
 }
 
 .previewImage {
-    border: solid 5px #935d8c;
+    /* border: solid 5px #665e65; */
+    border-radius: 5px;
+    box-shadow: 0 4px 8px #665e65;
 }
